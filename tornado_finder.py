@@ -5,7 +5,7 @@ Lat/Lon of Initial Tornado touch down
 Only spit out cases within 35 km
 '''
 #Hi Mark, I hope you get this.
-
+#Yes I got it
 import numpy as np
 
 # File name list and year list so that you can input a year and it directs you to the right file
